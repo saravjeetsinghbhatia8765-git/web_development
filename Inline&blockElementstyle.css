@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 p{
     background-color: rgb(255, 234, 127);
 }
@@ -12,4 +13,20 @@ div{
 
 span{
     background-color:rgb(43, 174, 226)
+=======
+p{
+    background-color: rgb(255, 234, 127);
+}
+
+a{
+    background-color: red;
+}
+
+div{
+    background-color:rgb(213, 213, 245);
+}
+
+span{
+    background-color:rgb(43, 174, 226)
+>>>>>>> 35fb649cc3baeca061c29ef1ea1c8afe412c455d
 }
